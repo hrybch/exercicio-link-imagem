@@ -1,0 +1,8 @@
+html {
+    font-size: 1em;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    width: 50vw;
+    border-style: solid;
+    border-color: aquamarine;
+}
